@@ -50,7 +50,7 @@ okoasem-insights/
 └── README.md
 ⚙️ Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/okoasem-insights.git
+git clone 
 cd okoasem-insights
 2. Install dependencies
 pip install -r requirements.txt
@@ -86,8 +86,8 @@ git commit -m "Add AmazingFeature"
 # Push to branch
 git push origin feature/AmazingFeature
 📬 Contact
-🌐 Website: https://sites.google.com/view/okoasem-insights
-📧 Email: your-email@example.com
+🌐 Website: https://sites.google.com/view/okoasem-insights/home?authuser=1
+📧 Email: benardliit9@gmail.com
 💼 LinkedIn: (add your profile)
 📄 License
 
